@@ -1,0 +1,144 @@
+
+.main{
+	margin-top:10px;
+	margin-bottom:10px;
+	width:100%;
+	height:2800px;
+	background-color:whitesmoke;
+}
+.main1{
+	margin:auto;
+	width:80%;
+	height:300px;
+	background-color:whitesmoke ;
+	font-size:30px;
+	font-family: Georgia,'Times New Roman',Times,serif;
+}
+.hr0{
+	border:0.5px dashed black;
+}
+.p0{
+	font-size:18px;
+}
+.p1{
+	font-size:16px;
+	line-height: 20px;
+}
+.main2{
+	margin:auto;
+	width:80%;
+	height:700px;
+	background-color:whitesmoke ;
+}
+.main2-left{
+	float: left;
+	width:40%;
+	height:700px;
+	background-color:whitesmoke ;
+}
+.main2-left-top{
+	margin:auto;
+	font-size: 30px;
+	font-family:'Times New Roman', Times, serif ;
+	color:grey;
+}
+.main2-left-middle img{
+	width:100%;
+	height: 260px;
+}
+.main2-left-bottom{
+	font-size: 13px;
+	line-height: 25px;
+	color:black;
+}
+.main2-right{
+	margin-left:20%;
+	float: left;
+	width:40%;
+	height:700px;
+	background-color:whitesmoke ;
+}
+.main2-right-top{
+	margin:auto;
+	font-size: 30px;
+	font-family:'Times New Roman', Times, serif ;
+	color:grey;
+}
+.main2-right-middle img{
+	width:100%;
+	height: 260px;
+}
+.main2-right-bottom{
+	font-size: 13px;
+	line-height: 25px;
+	color:black;
+}
+.hr1{
+	border:0.5px dashed black;
+}
+.main3{
+	margin:auto;
+	margin-top:10%;
+	
+	width:80%;
+	height:600px;
+	font-size:30px ;
+	font-family:'Times New Roman', Times, serif ;
+	color:grey;
+	background-color:whitesmoke ;
+}
+.main3 img{
+	width:100%;
+	height:500px;
+}
+.hr2{
+	border:0.5px dashed black;
+}
+.main4{
+	margin:auto;
+	width:80%;
+	height:630px;
+	font-size:30px ;
+	font-family:'Times New Roman', Times, serif ;
+	color:grey;
+}
+.main4-left{
+	float:left;
+	width:53%;
+	height:600px;
+	font-size:15px;
+	background-color:whitesmoke;
+}
+.main4-right{
+	margin-left:19%;
+	float:left;
+	width:28%;
+	height:630px;
+	font-size:20px;
+	background-color:lightblue;
+}
+.main4-right1{
+	font-size: 40px;
+}
+.main4-right3{
+	color:firebrick;
+	font-size: 16px;
+}
+#boxID{
+	position:relative;
+	margin:auto;
+	
+}
+#boxID img{
+
+	width:100%;
+	height:560px;
+}
+ footer{
+	position:relative;
+	margin:auto;
+	margin-top: 100px;
+	height:400px;
+	width:900px;
+	background-color: whitesmoke;
+}

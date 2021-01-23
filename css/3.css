@@ -1,0 +1,169 @@
+.main1 img{
+	position: relative;
+	width:100%;
+	height:400px;
+}
+.main{
+	width:80%;
+	height:1200px;
+	background-color: whitesmoke;
+	margin: auto;
+}
+.main2{
+	margin:auto;
+	margin-top: 20px;
+	width:100%;
+	height:60px;
+	background-color:whitesmoke ;
+	font-size:30px;
+	font-family: Georgia,'Times New Roman',Times,serif;
+}
+.hr0{
+	border:0.5px dashed black;
+}
+.main3-left{
+	float:left;
+	width:60%;
+	height:120px;
+	font-size: 14px;
+	font-family: 'Times New Roman', Times, serif ;
+	background-color: whitesmoke;
+}
+.main3-right{
+	float:left;
+	width:40%;
+	height:120px;
+	background-color: lightgray ;
+	border-radius: 10px;
+	}
+.main3-right-left img{
+	float: left;
+	margin-left:10%;
+	margin-top:10%;
+	width:10%;
+	height:20%;
+}
+.main3-right-right{
+	float: left;
+	width:60%;
+	margin-top:3%;
+	margin-left:3%;
+}
+.main4{
+	height:120px;
+	margin-top: 17%;
+	background-color: whitesmoke ;
+	font-family: Georgia,'Times New Roman',Times,serif ;
+}
+.main4-left{
+	float:left;
+	width:50%;
+	height:120px;
+	background-color: whitesmoke ;
+}
+.main4-right{
+	float:left;
+	width:50%;
+	height:120px;
+	background-color:whitesmoke ;
+}
+.main4-left-top select,.main4-left-bottom select,.main4-right-top select{
+	width:75%;
+	height:30px;
+	border-radius: 5px;
+	font-family: Georgia,'Times New Roman',Times,serif ;
+	border: none;
+	box-shadow:inset 0 1px 1px lightgray;
+}
+.main4-right-bottom input{
+	width:75%;
+	height:25px;
+	border-radius: 5px;
+	font-family: Georgia,'Times New Roman',Times,serif ;
+	border: none;
+	}
+.main5{
+	margin-top: 5%;
+		width:100%;
+		height:210px;
+	}
+.main5-1{
+	float: left;
+	width: 25%;
+	height: 250px;
+	font-family: Georgia,'Times New Roman',Times,serif ;
+	background-color: whitesmoke;
+}
+.main5-2,.main5-3,.main5-4{
+	float: left;
+	width: 25%;
+	height: 250px;
+	font-family: Georgia,'Times New Roman',Times,serif ;
+	background-color: whitesmoke;
+}
+.main6{
+	font-size: 25px;
+	font-family:Georgia,'Times New Roman',Times,serif ;
+}
+.main6 input{
+	margin-left:80%;
+	width:10%;
+	border-radius: 10px;
+}
+.main6 input:hover{
+	margin-left:80%;
+	border-radius: 10px;
+	background-color:firebrick;
+	color:white;
+}
+.main10,.main9,.main8,.main7{
+	margin-top: 3%;
+	width:100%;
+	height:200px;
+	font: 20px;
+	font-family:Georgia,'Times New Roman',Times,serif ;
+	background-color:whitesmoke;
+}
+.main10 img,.main9 img,.main8 img,.main7 img{
+	width:100%;
+	height:140px;
+}
+.main10-1,.main9-1,.main8-1,.main7-1{
+	height: 190px;
+	float:left;
+	width:30%;
+	background-color:whitesmoke;
+}
+.main10-2,.main10-3,.main9-2,.main9-3,.main8-2,.main8-3,.main7-2,.main7-3{
+	height: 190px;
+	margin-left:4.5%;
+	width:30%;
+	float:left;
+	background-color:whitesmoke;
+}
+.main11{
+/* 	margin: auto;
+	width:100%; */
+	font-size: 25px;
+	font-family:Georgia,'Times New Roman',Times,serif ;
+}
+.main11 input{
+    margin-left: 35%;
+	width:30%;
+	border-radius: 10px;
+}
+.main11 input:hover{
+	 margin-left: 35%;
+	border-radius: 10px;
+	background-color: firebrick;
+	color:white;
+}
+
+footer{
+	position:relative;
+	margin:auto;
+	margin-top: 100px;
+	height:400px;
+	width:900px;
+	background-color: whitesmoke;
+}
